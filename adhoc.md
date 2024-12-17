@@ -10,4 +10,5 @@
 - docker network ls
 - docker network create net-tier
 - docker network inspect net-tier
--
+- docker image ls
+- docker pull <image>
