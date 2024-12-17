@@ -12,3 +12,4 @@
 - docker network inspect net-tier
 - docker image ls
 - docker pull <image>
+- docker image history <image>
