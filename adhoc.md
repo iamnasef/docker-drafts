@@ -13,3 +13,5 @@
 - docker image ls
 - docker pull <image>
 - docker image history <image>
+- docker image tag <image> <tag>
+- docker push <image>
