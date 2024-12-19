@@ -15,3 +15,6 @@
 - docker image history <image>
 - docker image tag <image> <tag>
 - docker push <image>
+- docker volume ls
+- docker volume inspect <volume>
+- docker volume create <name>
