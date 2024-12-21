@@ -18,3 +18,5 @@
 - docker volume ls
 - docker volume inspect <volume>
 - docker volume create <name>
+- docker swarm init
+- docker service create <image>
